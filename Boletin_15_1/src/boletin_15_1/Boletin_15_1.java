@@ -16,3 +16,29 @@ public class Boletin_15_1 {
         }
     }   
 }
+
+//3. ¿Qué imprime o seguinte programa?
+
+/* SALIDA
+
+Objeto a1:
+--------------
+Nombre: Alumno 1
+Grupo: A
+Llamada al metodo prueba1(a1).
+Nombre: Alumno 1
+Grupo: B
+
+Objeto a2:
+-------------
+Nombre: Alumno 1
+Grupo: A
+Llamada al metodo prueba2(a2).
+Dentro del metodo prueba2.
+Nombre: Alumno 1
+Grupo: B
+Fuera ya del metodo prueba2.
+Nombre: Alumno 1
+Grupo: A
+
+SALIDA */
